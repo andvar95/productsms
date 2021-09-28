@@ -1,0 +1,12 @@
+id,name,description,price,category,discount,quantity,in_stock
+2,Colchón Soñare,Es una Colchon,2000000.0,Hogar,0.0,90,True
+3,Motorola MOTOG5,Es un teléfono,200000.0,Tecnología,0.0,10,True
+4,Motorola MOTOG4,Es un teléfono,150000.0,Tecnología,0.0,10,True
+5,Guitarra Fender,Es una guitarra,1500000.0,Música,0.0,50,True
+6,Bateria DM33,Es una bateria,1500000.0,Música,0.0,5,True
+7,Mesa Rimax,Es una Mesa,15000.0,Hogar,0.0,5,True
+8,Silla Rimax,Es una Silla,15000.0,Hogar,0.0,5,True
+9,Silla Comoda,Es una Silla,15000.0,Hogar,0.0,5,True
+10,Repisa Grande,Es una repisa,20000.0,Hogar,0.0,6,True
+11,Lenovo 2333,Es una computador,2300000.0,Tecnología,0.0,16,True
+12,HP 1000 2010,Es una computador,1300000.00,Tecnología,0.00000,16,True
