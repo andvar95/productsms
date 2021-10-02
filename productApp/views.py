@@ -77,7 +77,8 @@ class ProductsViewSet(viewsets.ModelViewSet):
                 product.quantity = prToSave['quantity']
                 product.save()
 
-            return response.Response({"status":'Ok'},status=status.HTTP_200_OK)
-            
-        return response.Response(error,status=status.HTTP_409_CONFLICT)
+            return response.Response({"status":['Ok']},status=status.HTTP_200_OK)
+        statusResponse={}
+        statusResponse['status'] = [error]
+        return response.Response(statusResponse,status=status.HTTP_409_CONFLICT)
      

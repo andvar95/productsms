@@ -54,6 +54,7 @@ coverage.xml
 .productsms 
 env/ 
 productsms/ 
+productms/ 
 ENV/ 
 env.bak/ 
 productsms.bak/ 
